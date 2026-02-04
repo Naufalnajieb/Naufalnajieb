@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img width="1584" height="400" alt="Linkedin_Banner" src="https://github.com/user-attachments/assets/842c4f17-f59e-4d45-80f2-d3b2566ae3a5" />
+<img width="1584" height="400" alt="Linkedin_Banner 2" src="https://github.com/user-attachments/assets/04098c10-7915-47dd-857d-df853092f411" />
+
+
 
 
 <!--
