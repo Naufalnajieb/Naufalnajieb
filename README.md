@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="1584" height="400" alt="Linkedin_Banner" src="https://github.com/user-attachments/assets/842c4f17-f59e-4d45-80f2-d3b2566ae3a5" />
+
+
 <!--
 **Naufalnajieb/Naufalnajieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
