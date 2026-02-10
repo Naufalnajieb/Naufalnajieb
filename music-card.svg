@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120">
+  <defs>
+    <style>
+      .title { font-family: 'Segoe UI', sans-serif; font-size: 14px; font-weight: 700; fill: #FFFFFF; }
+      .artist { font-family: 'Segoe UI', sans-serif; font-size: 11px; fill: #B3B3B3; }
+      .label { font-family: 'Segoe UI', sans-serif; font-size: 9px; fill: #1DB954; letter-spacing: 2px; }
+
+      /* Wave bar animations */
+      .w1 { animation: wave1 0.7s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w2 { animation: wave2 0.5s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w3 { animation: wave3 0.9s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w4 { animation: wave4 0.6s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w5 { animation: wave5 0.8s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w6 { animation: wave6 0.4s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w7 { animation: wave7 1.0s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w8 { animation: wave8 0.65s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w9 { animation: wave9 0.75s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w10 { animation: wave10 0.55s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w11 { animation: wave11 0.85s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w12 { animation: wave12 0.45s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w13 { animation: wave13 0.95s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w14 { animation: wave14 0.7s ease-in-out 0.1s infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w15 { animation: wave15 0.5s ease-in-out 0.2s infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w16 { animation: wave1  0.8s ease-in-out 0.15s infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w17 { animation: wave3  0.6s ease-in-out 0.05s infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w18 { animation: wave2  0.9s ease-in-out 0.3s  infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w19 { animation: wave4  0.7s ease-in-out 0.1s  infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+      .w20 { animation: wave5  0.5s ease-in-out 0.25s infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+
+      @keyframes wave1  { from { transform: scaleY(0.2); } to { transform: scaleY(1.0); } }
+      @keyframes wave2  { from { transform: scaleY(0.7); } to { transform: scaleY(0.2); } }
+      @keyframes wave3  { from { transform: scaleY(0.3); } to { transform: scaleY(0.9); } }
+      @keyframes wave4  { from { transform: scaleY(0.9); } to { transform: scaleY(0.3); } }
+      @keyframes wave5  { from { transform: scaleY(0.4); } to { transform: scaleY(1.0); } }
+      @keyframes wave6  { from { transform: scaleY(0.8); } to { transform: scaleY(0.2); } }
+      @keyframes wave7  { from { transform: scaleY(0.2); } to { transform: scaleY(0.8); } }
+      @keyframes wave8  { from { transform: scaleY(0.5); } to { transform: scaleY(1.0); } }
+      @keyframes wave9  { from { transform: scaleY(0.6); } to { transform: scaleY(0.15); } }
+      @keyframes wave10 { from { transform: scaleY(0.3); } to { transform: scaleY(0.85); } }
+      @keyframes wave11 { from { transform: scaleY(0.75); } to { transform: scaleY(0.2); } }
+      @keyframes wave12 { from { transform: scaleY(0.2); } to { transform: scaleY(0.95); } }
+      @keyframes wave13 { from { transform: scaleY(0.55); } to { transform: scaleY(0.1); } }
+      @keyframes wave14 { from { transform: scaleY(0.3); } to { transform: scaleY(0.9); } }
+      @keyframes wave15 { from { transform: scaleY(0.8); } to { transform: scaleY(0.25); } }
+
+      .card-in { animation: fadeUp 0.8s ease-out both; }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(8px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+
+    <!-- Card clip -->
+    <clipPath id="cc"><rect width="480" height="120" rx="16"/></clipPath>
+    <!-- Album clip -->
+    <clipPath id="ac"><rect x="16" y="16" width="88" height="88" rx="10"/></clipPath>
+
+    <!-- Background gradient: dark teal → dark purple -->
+    <linearGradient id="bgG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1f2d"/>
+      <stop offset="50%"  stop-color="#131a2e"/>
+      <stop offset="100%" stop-color="#1a0e2e"/>
+    </linearGradient>
+
+    <!-- Wave gradient: green → teal → blue -->
+    <linearGradient id="waveG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1DB954"/>
+      <stop offset="40%"  stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#7B61FF"/>
+    </linearGradient>
+
+    <!-- Album art fallback gradient -->
+    <linearGradient id="albumG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#1a1a3e"/>
+      <stop offset="100%" stop-color="#0d1f3c"/>
+    </linearGradient>
+
+    <!-- Glow filter for wave bars -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Border gradient -->
+    <linearGradient id="borderG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#1DB954" stop-opacity="0.6"/>
+      <stop offset="50%"  stop-color="#00D9FF" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#7B61FF" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <g class="card-in">
+    <!-- Background -->
+    <rect width="480" height="120" rx="16" fill="url(#bgG)" clip-path="url(#cc)"/>
+
+    <!-- Decorative blurred orb top-right -->
+    <circle cx="420" cy="20" r="55" fill="#1DB954" fill-opacity="0.06"/>
+    <circle cx="440" cy="90" r="40" fill="#7B61FF" fill-opacity="0.07"/>
+
+    <!-- Border -->
+    <rect width="480" height="120" rx="16" fill="none" stroke="url(#borderG)" stroke-width="1.2"/>
+
+    <!-- Left accent bar -->
+    <rect x="0" y="12" width="3.5" height="96" rx="2" fill="url(#waveG)"/>
+
+    <!-- Album Art -->
+    <rect x="16" y="16" width="88" height="88" rx="10" fill="url(#albumG)"/>
+    <image href="Moonlight.png"
+           x="16" y="16" width="88" height="88"
+           clip-path="url(#ac)" preserveAspectRatio="xMidYMid slice"/>
+    <!-- Subtle overlay on album -->
+    <rect x="16" y="16" width="88" height="88" rx="10" fill="rgba(0,0,0,0.12)" clip-path="url(#ac)"/>
+
+    <!-- MUSIC label -->
+    <text x="120" y="30" class="label">♪ MUSIC</text>
+
+    <!-- Song title -->
+    <text x="120" y="52" class="title">ムーンライト</text>
+
+    <!-- Artist / album -->
+    <text x="120" y="70" class="artist">Hoshimachi Suisei</text>
+
+    <!-- Wave bars (20 bars, animated, gradient fill) -->
+    <g transform="translate(120, 105)" filter="url(#glow)">
+      <!-- bars anchored at y=0, grow upward via scaleY -->
+      <rect class="w1"  x="0"   y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w2"  x="6"   y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w3"  x="12"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w4"  x="18"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w5"  x="24"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w6"  x="30"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w7"  x="36"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w8"  x="42"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w9"  x="48"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w10" x="54"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w11" x="60"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w12" x="66"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w13" x="72"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w14" x="78"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w15" x="84"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w16" x="90"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w17" x="96"  y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w18" x="102" y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w19" x="108" y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+      <rect class="w20" x="114" y="-28" width="4" height="28" rx="2" fill="url(#waveG)"/>
+    </g>
+  </g>
+</svg>
