@@ -183,29 +183,26 @@ My goal is to create **innovative solutions** that make a real impact in people'
 <table width="100%" style="border: 3px solid #00D9FF; border-radius: 10px; background: linear-gradient(135deg, rgba(138,43,226,0.05) 0%, rgba(0,217,255,0.1) 100%);">
 <tr>
 <td align="center" width="25%" style="padding: 25px;">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-integrity-lifestyles-flaticons-flat-flat-icons.png" alt="Integrity" width="90"/><br/><br/>
+<img src="https://img.icons8.com/fluency/96/handshake.png" alt="Integrity" width="90"/><br/><br/>
 <b style="font-size: 18px;">Integrity</b><br/>
-<sub style="font-size: 14px;">Honesty & Ethics</sub>
 </td>
 <td align="center" width="25%" style="padding: 25px;">
 <img src="https://img.icons8.com/fluency/96/overtime.png" alt="Responsibility" width="90"/><br/><br/>
 <b style="font-size: 18px;">Responsibility</b><br/>
-<sub style="font-size: 14px;">Ownership & Quality</sub>
 </td>
 <td align="center" width="25%" style="padding: 25px;">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-communication-remote-work-flaticons-flat-flat-icons-2.png" alt="Communication" width="90"/><br/><br/>
+<img src="https://img.icons8.com/fluency/96/speech-bubble.png" alt="Communication" width="90"/><br/><br/>
 <b style="font-size: 18px;">Communication</b><br/>
-<sub style="font-size: 14px;">Clear & Effective</sub>
 </td>
 <td align="center" width="25%" style="padding: 25px;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-leadership-productivity-flaticons-lineal-color-flat-icons.png" alt="Leadership" width="90"/><br/><br/>
+<img src="https://img.icons8.com/fluency/96/manager.png" alt="Leadership" width="90"/><br/><br/>
 <b style="font-size: 18px;">Leadership</b><br/>
-<sub style="font-size: 14px;">Team Guidance</sub>
 </td>
 </tr>
 </table>
-</div>
 
+
+</div>
 <br>
 
 <!-- HOBBIES -->
@@ -220,9 +217,6 @@ My goal is to create **innovative solutions** that make a real impact in people'
 ### 🎧 Music Enthusiast
 
 <div style="position:relative; width:480px; height:120px;">
-  <!-- Album art sebagai img biasa -->
-  <img src="https://raw.githubusercontent.com/Naufalnajieb/Naufalnajieb/main/Moonlight.png" 
-       style="position:absolute; left:16px; top:16px; width:88px; height:88px; border-radius:10px; object-fit:cover;"/>
   <!-- SVG card di atasnya (tanpa image tag di dalamnya) -->
   <img src="music-card.svg" style="position:absolute; top:0; left:0;"/>
 </div>
@@ -286,23 +280,12 @@ Exploring the beauty of Japan through its stories, art, and traditions. Currentl
 
 <!-- GITHUB STATS -->
 <div align="center">
-
+  
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naufalnajieb&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&border_radius=15&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naufalnajieb&theme=algolia&hide_border=true&border_radius=15&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" />
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufalnajieb&layout=compact&theme=algolia&hide_border=true&langs_count=10&border_radius=15&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naufalnajieb&theme=react-dark&hide_border=true&area=true&border_radius=15&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&title_color=00D9FF" alt="Contribution Graph" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naufalnajieb&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues,Followers" alt="GitHub Trophies" width="100%"/>
-
+<img src="https://streak-stats.demolab.com/?user=Naufalnajieb&theme=algolia&hide_border=true&border_radius=15&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naufalnajieb&theme=react-dark&hide_border=true&area=true&border_radius=15&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&title_color=00D9FF" alt="Contribution Graph" />
 </div>
-
 <br>
 
 <!-- FOOTER with unique design -->
