@@ -14,13 +14,17 @@ SETUP INSTRUCTIONS:
 
 </div>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=15C9E1&height=3"/>
+</div>
 <br>
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&lines=I'm+a+Software+Developer;I'm+a+Full+Stack+Developer;I'm+a+Creative+Designer;" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&lines=Full+Stack+Developer;UI%2FUX+Designer;Creative+Problem+Solver" alt="Typing SVG" />
+<br>
 
-<br><br>
+###
 
 <img src="https://komarev.com/ghpvc/?username=Naufalnajieb&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 
@@ -60,6 +64,7 @@ My goal is to create **innovative solutions** that make a real impact in people'
 
 <!-- SKILLS SECTION -->
 <div align="center">
+  
 ## 🎯 Skills
 
 ### 💻 Programming & Technical Skills
@@ -72,11 +77,11 @@ My goal is to create **innovative solutions** that make a real impact in people'
 </tr>
 <tr>
 <td align="center" width="12.5%" style="padding: 20px;">
-<img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="65" height="65" />
 <br><br><b>C</b>
 </td>
 <td align="center" width="12.5%" style="padding: 20px;">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="85" height="85" />
 <br><br><b>C++</b>
 </td>
 <td align="center" width="12.5%" style="padding: 20px;">
@@ -145,28 +150,28 @@ My goal is to create **innovative solutions** that make a real impact in people'
 <table width="100%" style="border: 3px solid #00D9FF; border-radius: 10px; background: linear-gradient(135deg, rgba(255,105,180,0.05) 0%, rgba(138,43,226,0.1) 100%);">
 <tr>
 <td align="center" width="16.66%" style="padding: 20px;">
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" style="width: 65px; height: 65px;" />
 <br><br><b>Figma</b>
 </td>
 <td align="center" width="16.66%" style="padding: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" style="width: 65px; height: 65px;" />
 <br><br><b>Canva</b>
 </td>
 <td align="center" width="16.66%" style="padding: 20px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Krita-logo.svg" alt="Krita" width="65" height="65" />
+<img src="https://github.com/user-attachments/assets/5cd7057f-c550-4c8c-bb33-375689190fb6" alt="Krita" style="width: 65px; height: 65px; object-fit: contain;" />
 <br><br><b>Krita</b>
 </td>
 <td align="center" width="16.66%" style="padding: 20px;">
-<img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" style="width: 65px; height: 65px;" />
 <br><br><b>Blender</b>
 </td>
 <td align="center" width="16.66%" style="padding: 20px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Capcut-logo.svg" alt="CapCut" width="65" height="65" />
+<img src="https://github.com/user-attachments/assets/33c07516-ff96-411c-b208-6de69ac65e7a" alt="CapCut" style="width: 65px; height: 65px; object-fit: contain;" />
 <br><br><b>CapCut</b>
 </td>
 <td align="center" width="16.66%" style="padding: 20px;">
-<img src="https://img.icons8.com/color/96/video-editing.png" alt="VN Video Editor" width="65" height="65" />
-<br><br><b>VN Editor</b>
+<img src="https://github.com/user-attachments/assets/e92a5013-85af-4f3c-aca0-018a52fd6053" alt="VN Video Editor" style="width: 65px; height: 65px; object-fit: contain;" />
+<br><br><b>VN</b>
 </td>
 </tr>
 </table>
@@ -205,6 +210,7 @@ My goal is to create **innovative solutions** that make a real impact in people'
 
 <!-- HOBBIES -->
 <div align="center">
+  
 ## 🎵 Hobbies & Interests
 
 <table width="100%" style="border: 2px solid #00D9FF; border-radius: 15px; background: linear-gradient(135deg, rgba(0,217,255,0.05) 0%, rgba(10,25,41,0.3) 100%);">
@@ -212,10 +218,6 @@ My goal is to create **innovative solutions** that make a real impact in people'
 <td align="center" width="50%" style="padding: 30px;">
 
 ### 🎧 Music Enthusiast
-
-<a href="https://open.spotify.com/user/31wjk5vrg4pfee3gwif7oitgz4d4">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wjk5vrg4pfee3gwif7oitgz4d4&count=1&width=500" alt="Spotify Now Playing" />
-</a>
 
 <br>
 
@@ -263,13 +265,10 @@ Exploring the beauty of Japan through its stories, art, and traditions. Currentl
 <a href="https://linkedin.com/in/naufal-najieb">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/your-username">
+<a href="https://instagram.com/naufalnajieb">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://github.com/Naufalnajieb">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://your-website.com">
+<a href="https://naufalfakhri.vercel.app">
   <img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
 
