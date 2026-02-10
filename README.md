@@ -221,7 +221,7 @@ My goal is to create **innovative solutions** that make a real impact in people'
 
 <div style="position:relative; width:480px; height:120px;">
   <!-- Album art sebagai img biasa -->
-  <img href="https://raw.githubusercontent.com/Naufalnajieb/Naufalnajieb/main/Moonlight.png" 
+  <img src="https://raw.githubusercontent.com/Naufalnajieb/Naufalnajieb/main/Moonlight.png" 
        style="position:absolute; left:16px; top:16px; width:88px; height:88px; border-radius:10px; object-fit:cover;"/>
   <!-- SVG card di atasnya (tanpa image tag di dalamnya) -->
   <img src="music-card.svg" style="position:absolute; top:0; left:0;"/>
