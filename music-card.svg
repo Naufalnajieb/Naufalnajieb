@@ -105,7 +105,7 @@
 
     <!-- Album Art -->
     <rect x="16" y="16" width="88" height="88" rx="10" fill="url(#albumG)"/>
-    <image href="https://raw.githubusercontent.com/Naufalnajieb/Naufalnajieb/main/Moonlight.png"
+    <image src="https://raw.githubusercontent.com/Naufalnajieb/Naufalnajieb/main/Moonlight.png"
            x="16" y="16" width="88" height="88"
            clip-path="url(#ac)" preserveAspectRatio="xMidYMid slice"/>
     <!-- Subtle overlay on album -->
