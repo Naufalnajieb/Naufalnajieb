@@ -1,33 +1,20 @@
-<!-- 
-SETUP INSTRUCTIONS:
-1. Upload banner.png to your GitHub repository root folder
-2. Replace Naufalnajieb with your GitHub username
-3. Update Instagram and Website links
-4. Delete this comment block after setup
--->
-
 <h1 align="left">Hi There, I'm Fakhri👋</h1>
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/04098c10-7915-47dd-857d-df853092f411" alt="Naufal Fakhri Banner" width="100%"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=15C9E1&height=3"/>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&lines=I'm+a+Software+Developer;I'm+a+Full+Stack+Developer;I'm+a+Creative+Designer;" alt="Typing SVG" />
+
+  <br>
   
-<img src="https://github.com/user-attachments/assets/04098c10-7915-47dd-857d-df853092f411" alt="Naufal Fakhri Banner" width="100%"/>
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=15C9E1&height=3"/>
-</div>
-<br>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&lines=I'm+a+Software+Developer;I'm+a+Full+Stack+Developer;I'm+a+Creative+Designer;" alt="Typing SVG" />
-
-<br>
-
-###
-
-<img src="https://komarev.com/ghpvc/?username=Naufalnajieb&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=Naufalnajieb&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
@@ -225,10 +212,10 @@ My goal is to create **innovative solutions** that make a real impact in people'
 
 #### 🎼 My Top Genres
 
-<img src="https://img.shields.io/badge/ELECTRONIC-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Electronic" />
-<img src="https://img.shields.io/badge/HIP_HOP-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Hip Hop" />
-<img src="https://img.shields.io/badge/INDIE-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Indie" />
-<img src="https://img.shields.io/badge/ROCK-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Rock" />
+<img src="https://img.shields.io/badge/JPOP-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="J-POP" />
+<img src="https://img.shields.io/badge/KPOP-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="K-POP" />
+<img src="https://img.shields.io/badge/ROCK-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="ROCK" />
+<img src="https://img.shields.io/badge/INDIE-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="INDIE" />
 
 </td>
 <td align="center" width="50%" style="padding: 30px; border-left: 2px solid #00D9FF;">
