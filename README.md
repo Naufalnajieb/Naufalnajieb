@@ -219,6 +219,8 @@ My goal is to create **innovative solutions** that make a real impact in people'
 
 ### 🎧 Music Enthusiast
 
+<img src="./music-card.svg" width="480" alt="Now Playing - ムーンライト"/>
+
 <br>
 
 #### 🎼 My Top Genres
