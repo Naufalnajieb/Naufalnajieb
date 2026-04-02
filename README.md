@@ -193,6 +193,7 @@ My goal is to create **innovative solutions** that make a real impact in people'
 <br>
 
 <!-- HOBBIES -->
+<!--
 <div align="center">
   
 ## 🎵 Hobbies & Interests
@@ -204,11 +205,11 @@ My goal is to create **innovative solutions** that make a real impact in people'
 ### 🎧 Music Enthusiast
 
 <div style="position:relative; width:480px; height:120px;">
-  <!-- SVG card di atasnya (tanpa image tag di dalamnya) -->
   <img src="music-card.svg" style="position:absolute; top:0; left:0;"/>
 </div>
 
 <br>
+
 
 #### 🎼 My Top Genres
 
@@ -242,6 +243,7 @@ Exploring the beauty of Japan through its stories, art, and traditions. Currentl
 </div>
 
 <br>
+-->
 
 <!-- CONNECT -->
 <div align="center">
@@ -282,8 +284,6 @@ Exploring the beauty of Japan through its stories, art, and traditions. Currentl
 
 <br>
 
-**"Code is poetry written in logic"** ✨
-
-<sub>Built with 💙 by Naufal Fakhri Al-Najieb</sub>
+<sub>Created by Naufal Fakhri Al-Najieb</sub>
 
 </div>
